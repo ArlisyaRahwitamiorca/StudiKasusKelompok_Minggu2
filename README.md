@@ -13,12 +13,9 @@ Latihan mata kuliah **Pemrograman Berorientasi Objek (OOP)** dengan topik **abst
 
 | Nama | NIM | Peran |
 |---|---|---|
-| Ajeng Az Zahra | 225443002 | Backend Developer 2 |
-| Arlisya Rahwitami | 225443004 | Backend Developer 1 |
-| Nabila Khalishah | 225443021 | Documentation Lead |
-| Qurrata A'yuni | 225443023 | Project Lead |
-| Renisa Rahmawati | 225443025 | System Developer |
-| Shiva Nayla Zahra | 225443053 | Payment Developer |
+| Arlisya Rahwitami | 225443004 | Arsitek, Integrator & Exception |
+| Nabila Khalishah | 225443021 | Implementator Buku & Majalah |
+| Qurrata A'yuni | 225443023 | Implementator DVD & Manager |
 
 ---
 
